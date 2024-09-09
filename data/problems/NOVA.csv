@@ -1,0 +1,21 @@
+Entry ID,Username,Hostname,Hashing Algorithm,Password,Password
+1,jobexecutor,PEOPLESOFT_QA,MD5,qweasdfgzxcv228,qweasdfgzxcv228
+2,bafin,PEOPLESOFT_DEV,SHA512,Donttrustanybody1,Donttrustanybody1
+3,matthew,SHAREPOINT_IT,NTLM,71matthew,71matthew
+4,remoteuser,USRSETUP_VSFTPD,SHA512,password,password
+5,admin,USRSETUP_VSFTPD,SHA512,qdeacasalvaje,qdeacasalvaje
+6,backupuser,USRSETUP_VSFTPD,SHA512,aom1aom,aom1aom
+7,priya,DEVOPS_WORKSTATION01,RSA,9spiderman,9spiderman
+8,unknown,VHX_MAIL,phpass,Palmtree21,Palmtree21
+9,rebekah,IT_WORKSTATION05,KeePass,1478523695,1478523695
+10,CISCO15,CTC01,N/A,obtu+1,obtu+1
+11,itsuser,IT_SCRIPTS,N/A,uHfAgvUZe4d7zr7ajETe,uHfAgvUZe4d7zr7ajETe
+12,iisadmin,PROCUREMENT_SERVE,NTLM,Alien%,Alien%
+13,timothy,PROCUREMENT_SERVE,NTLM,Madonna!,Madonna!
+14,xinyi,VHX_ONBRD_LEGACY,SHA1,remaerdremaerd+,remaerdremaerd+
+15,barry,BARRY_LAPTOP,NTLM,buzzy-boy,buzzy-boy
+16,lilyroost,LILYCELLPHONE,SHA1,%%DDrroowwzzee%%,%%DDrroowwzzee%%
+17,lilyr,LILYLAPTOP,SHA1,**GGoolldduucc##,**GGoolldduucc##
+18,lily,HR_WORKSTATION06,SHA1,##SSaannddsshhrree%%,##SSaannddsshhrree%%
+19,iankemp,IANLAPTOP,NTLM,nOENEMIES,nOENEMIES
+20,ian,IT_WORKSTATION09,NTLM,J@cqu3lin3_C00p3r!,J@cqu3lin3_C00p3r!

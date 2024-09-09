@@ -1,0 +1,7 @@
+version: '3'
+services:
+  web-based:
+    container_name: web-based
+    build: .
+    ports:
+      - '10001:10001'
